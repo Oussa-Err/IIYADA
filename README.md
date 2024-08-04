@@ -1,8 +1,9 @@
-# IYADA - Clinic Management System
+# IIYADA - Clinic Management System
 ## Table of Contents
-- Introduction
-- Actors
-- Class Diagram
+- [Introduction](#introduction)
+- [Actors](#actors)
+- [Class Diagram](#class-diagram)
+- [Getting started](#getting-started)
 
 ## Introduction
 
@@ -24,7 +25,7 @@ There are two main users for this application:
 
 The project consists of multiple classes, each serving a specific role. For example:
 
-<img src='/Resources/class-diagram-screenshot.png'  style='text-align: center; display:flex; items-align: center'  alt='class-diagram-screenshot' width='600' height='700' />
+![image](/gestionCabinie/Resources/class-diagram-screenshot.png)
 
 Patient Interface: Contains several methods to manage patient information, including CIN, NAME, LASTNAME, PHONE, and ADDRESS. The available operations are:    **Add, Edit, Delete, Search**
 Consultation details: include Id, CIN, date, description, appointment date, medications, and quantity.
@@ -54,8 +55,8 @@ Build and run the project.
 ## Contributions are welcome! 
 Please follow these steps:
 
-Fork the repository.
-Create a new branch (git checkout -b feature-branch).
-Commit your changes (git commit -m 'Add some feature').
-Push to the branch (git push origin feature-branch).
-Open a pull request.
+- Fork the repository.
+- Create a new branch (git checkout -b feature-branch).
+- Commit your changes (git commit -m 'Add some feature').
+- Push to the branch (git push origin feature-branch).
+- Open a pull request.
