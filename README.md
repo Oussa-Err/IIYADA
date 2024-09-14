@@ -7,7 +7,7 @@
 
 ## Introduction
 
-IYADA is a comprehensive clinic management windows forms app developed using Visual Studio 2022. The primary language used is C#, and ADO.NET is utilized for database manipulation. The design is enhanced using the Guna framework.
+IIYADA is a comprehensive clinic management windows forms app developed using Visual Studio 2022. The primary language used is C#, and ADO.NET is utilized for database manipulation. The design is enhanced using the Guna framework.
 
 ### Key features include:
 
